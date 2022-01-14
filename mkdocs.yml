@@ -1,0 +1,9 @@
+site_name: Adaptive Brush
+site_description: An adaptive 3D brush for segmentation based on local region growing
+site_author: Karol Gotkowski
+
+theme: readthedocs
+
+
+pages:
+- Home: index.md
